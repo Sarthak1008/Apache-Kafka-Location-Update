@@ -5,7 +5,6 @@ Kafka's versatility makes it suitable for various use cases, including real-time
 <br>
 
 <strong>Real-time Location Tracking:</strong>
-
 The project utilizes Apache Kafka as a message broker to facilitate real-time location updates.
 <br>
 When a device sends its location data to the backend service, Spring Boot publishes this data as messages to Kafka topics.
