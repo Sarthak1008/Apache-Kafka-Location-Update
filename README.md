@@ -14,3 +14,6 @@ When a device sends its location data to the backend service, Spring Boot publis
 Microservices Architecture: </strong>
 <br>
 The project follows a microservices architecture where different components handle specific tasks such as data ingestion, processing, and storage. Spring Boot facilitates the development of lightweight and autonomous microservices, each with its own responsibilities. Apache Kafka acts as the central communication backbone, enabling seamless integration and communication between microservices for handling location updates effectively.
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnaw8Gwd_-NgY9utfoOyedkgddKh9Gw099C1XbAgspEQ&s" alt="Image" width="500">
+
